@@ -25,6 +25,7 @@ header h1 {
 header p {
     padding-bottom: 40px;
     color: rgba(255, 255, 255, 0.555);
+    font-size: 0.8em;
 }
 header a {
     text-decoration: none;
@@ -65,13 +66,13 @@ section.imagem p {
     padding: 5px;
 }
 section#img1{
-    background-image: url('../imagens/background001.jpg');
-    background-position: right center;
+    background-image: url('../imagens/background001-pq.jpg');
+    background-position: center center;
 
 }
 section#img2{
-    background-image: url('../imagens/background002.jpg');
-    background-position: right center;
+    background-image: url('../imagens/background002-pq.jpg');
+    background-position: center center;
     
 }
 footer{
